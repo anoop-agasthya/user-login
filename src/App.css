@@ -1,0 +1,62 @@
+.login-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: linear-gradient(180deg, #625BF7 0%, #463EEA 100%);
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.error {
+  color: red;
+}
+
+#continue
+{
+margin-top: 5px;
+
+}
+a{
+  text-decoration: none;
+  color: #007BFF;
+  
+}
+
+span{
+  color: #0056b3;
+}
+.profile-container{
+  width: 40vw;
+  height: 60vh;
+  background-color: rgb(231, 238, 238);
+  margin: auto;
+  padding: 20px;
+  border-radius: 1rem;
+}
+
