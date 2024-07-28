@@ -1,6 +1,6 @@
 {
   "homepage": "https://anoop-agasthya.github.io/user-login/",
-  "name": "dummy-authentication-react",
+  "name": "user-login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
